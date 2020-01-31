@@ -1,10 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
-.db.sqlite3
-.idea
-.Head
-.description
-.config
+.db.sqlite3/
+.idea/
+.HEAD/
+.description/
+.config/
 .info
-.hooks
-.refs
+.hooks/
+.refs/
 
